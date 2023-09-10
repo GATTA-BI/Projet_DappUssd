@@ -26,5 +26,5 @@ contract uvciCoin is ERC20{
     - RAS: car, tout est déjà codé en React.Js dans ce projet ;
                                                                                                                                                                                                                                                         
 4-) Test :
-    - Taper : npm start ;
+    - Taper : npm start ;                                                                                                                                                                                                                                                                                                            
  NB: Ecrivez-moi, si jamais vous rencontrez des erreurs. merci!
